@@ -1,7 +1,7 @@
 var request = require('request')
 var seconds = 1;
 
-var cyncDriver = "https://api.parse.com/1/functions/test";
+var cyncDriver = "https://api.parse.com/1/functions/cync";
 var cyncHeaders = {
   'Content-Type': 'application/json',
   'X-Parse-Application-Id': 'w2xsWBBHSdJg7UkZAyA0We19GMbV9rMPKwnRBYv6',
