@@ -1,0 +1,19 @@
+{
+  "name": "incync-backend-driver",
+  "version": "0.0.1",
+  "description": "inCync backend code call Parse backend at a set interval",
+  "private": false,
+  "engines": {
+    "node": "4.0.0"
+  },
+  "dependencies": {
+    "request": "~2.62.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USA-Hacks/incync-backend-driver"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  }
+}
